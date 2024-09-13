@@ -1,0 +1,46 @@
+
+Body {
+    background-color: rgb(18, 4, 99);
+}
+
+Body {
+    color: orangered;
+}
+
+Img {
+    height: 650px; width: 650px;
+}
+
+.Picture {
+    height: 10%; width: 10%;
+}
+
+a {
+    color: rgb(248, 245, 39);
+    border: 10px;
+    margin: 10px;
+}
+
+.sticky {
+    position: sticky;
+    top: 0px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #d1c411;
+    border: 5px solid #4d4204;
+    margin: 10px;
+}
+
+    .sticky p {
+    padding-left: 5px;
+    margin: 5px;
+}
+
+.flex-container {
+    justify-content: space-around;
+    display: flex;
+}
+
+.flex-item1 {
+    justify-content: flex-start;
+}
